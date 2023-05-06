@@ -1,0 +1,91 @@
+.topnav {
+    background-color: white;
+    overflow: hidden;
+  }
+.topnav a {
+    float: right;
+    display: block;
+    color: #F23D9C;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover {
+    background-color: black;
+    color: white;
+  }
+
+  .cta {
+    text-align: center;
+       }
+
+   p {
+    text-align: center;
+    align-items: center;
+   }
+   .furever {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+   img {
+    max-width: 100%;
+    max-height: 100%
+   }
+   .text {
+    font-size: 70px;
+   }
+   .pets {
+    text-align: center;
+   }
+   .ootd {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+   img {
+    max-width: 100%;
+    max-height: 100%
+   }
+   .text {
+    font-size: 70px;
+   }
+   .clothing {
+    text-align: center;
+   }
+   .depted {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+   img {
+    max-width: 100%;
+    max-height: 100%
+   }
+   .text {
+    font-size: 70px;
+   }
+   .deptedrd {
+    text-align: center;
+   }
+
+   .botnav {
+    background-color: white;
+    overflow: hidden;
+  }
+
+.botnav a {
+    float: right;
+    display: block;
+    color: #F23D9C;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .botnav a:hover {
+    background-color: black;
+    color: white;
+  }
